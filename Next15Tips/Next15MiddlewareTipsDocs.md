@@ -63,6 +63,9 @@ export const runtime = "edge"
 ## 代替案
 ServerComponentを利用する
 Node.js環境内で実行可能
+より豊富なリソースが使える
+重い処理はサーバサイドで実行する
+さらにキャッシュを使う
 
 Node.js固有のAPI利用
 全パスでの実行
